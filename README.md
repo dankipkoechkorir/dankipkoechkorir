@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dankipkoechkorir
-- 👀 I’m interested in back end development and data analysis
+- 👋 Hi, I’m @dan kipkoech korir
+- 👀 I’m interested in back-end development and data analysis
 - 🌱 I’m currently learning SQL 
-- 💞️ I’m looking to collaborate on development of cuting edge-projects
+- 💞️ I’m looking to collaborate on development of cutting edge-projects
 - 📫 How to reach me @ kipkoechkorir37@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: why do prorammers prefer dark mode?-'because light attract bugs'
